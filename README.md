@@ -18,3 +18,7 @@ The World Countries App offers a rich display of essential country data, includi
 
 #### Search Functionality:
 Users can easily search for countries by entering either the country name or its alpha2Code. 
+#### Technologies Used:
+  <li> JavaScript (JS)</li>
+  <li> HTML (Hypertext Markup Language)</li>
+  <li> CSS (Cascading Style Sheets)</li>
